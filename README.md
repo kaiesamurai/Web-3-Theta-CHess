@@ -25,6 +25,12 @@ Theta is a blockchain platform designed for running smart contract-based applica
 #### NFT Contract Address: 0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a
 #### Game Contract Address: 0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD
 #### Marketplace Contract Address: 0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc
+https://testnet-explorer.thetatoken.org/account/0xffD4D54e3968Ff98B64bdFBa7EEf06984952D75a<br>
+https://testnet-explorer.thetatoken.org/account/0xFEF212aE02a46198eEEb07Da9348f9FA9bbff7AD<br>
+https://testnet-explorer.thetatoken.org/account/0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc<br>
+![image](https://github.com/user-attachments/assets/2a84bd4a-224f-4fe4-9980-111a56b7c6e5)
+![image](https://github.com/user-attachments/assets/44bed20a-e508-4d08-82ed-e8e9ec768675)
+![image](https://github.com/user-attachments/assets/387120f0-7f39-4359-acc0-a3e67dcd6bba)
 
 
 
